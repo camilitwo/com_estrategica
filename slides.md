@@ -1,6 +1,6 @@
 ---
 layout: cover
-background: ./dist/assets/img/group-of-casually-dressed-business-people-discussing-ideas-in-the-office.jpg
+background: './img/group-of-casually-dressed-business-people-discussing-ideas-in-the-office.jpg'
 title: Comunicación Estratégica
 download: true
 ---
