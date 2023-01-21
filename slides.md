@@ -1,6 +1,6 @@
 ---
 layout: cover
-background: './img/group-of-casually-dressed-business-people-discussing-ideas-in-the-office.jpg'
+background: https://rabascallcomunicacion.com/rc/wp-content/uploads/2018/07/rabascall-titu-servicios-comunicacionEstategica-1.jpg
 title: Comunicación Estratégica
 download: true
 ---
