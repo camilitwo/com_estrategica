@@ -1,22 +1,23 @@
 ---
 layout: cover
-background: https://i.pinimg.com/564x/99/7b/78/997b78fb322c39896f80af57e9645463.jpg
+background: https://rabascallcomunicacion.com/rc/wp-content/uploads/2018/07/rabascall-titu-servicios-comunicacionEstategica-1.jpg
 title: Comunicación Estratégica
 download: true
 ---
+<h1 style="font-size: 7em; color: #fff; text-shadow: 0 0 10px #000;">Comunicación Estratégica</h1>
+<br>
+<h4 style="font-size: 2em; color: #fff; text-shadow: 0 0 10px #000;">Planificación, desarrollo e implementación.</h4>
 
-# Comunicación Estratégica
-### Planificación, desarrollo e implementación.
-<br><br><br><br><br><br>
-<mdi-account-circle/>
-```text 
-    Jorge Gangale
-    Cristian Shweidsfdsds
-    Victor Guajardo
-    Cristian Reyes
-    Camilo González
-```    
+<br><br><br><br>
 
+
+<span style="font-size: 1em; color: #fff; text-shadow: 0 0 5px #000;">
+    <br><mdi-record-circle-outline/> Camilo González
+    <br><mdi-record-circle-outline/> Cristian Reyes
+    <br><mdi-record-circle-outline/> Cristian Schweikart
+    <br><mdi-record-circle-outline/> Jorge Gangale
+    <br><mdi-record-circle-outline/> Victor Guajardo
+</span>
 
 ---
 layout: cover
