@@ -21,6 +21,19 @@ download: true
 
 ---
 layout: cover
+background: https://i.pinimg.com/564x/5f/88/6f/5f886f42bc8ea49368dd506f3ef751ac.jpg
+---
+<h1 style="font-size: 4em; color: #fff; text-shadow: 0 0 10px #000;">¿Qué veremos a continuación?</h1>
+<br><br><br><br>
+<span style="font-size: 1.5em; color: #fff; text-shadow: 0 0 5px #000;">
+<mdi-numeric-1-box-multiple-outline/> Objetivos <mdi-numeric-2-box-multiple-outline/> Definición 
+<mdi-numeric-3-box-multiple-outline/> Importancia <mdi-numeric-4-box-multiple-outline/> Ejemplos 
+<mdi-numeric-5-box-multiple-outline/> Conclusiones
+</span>
+
+
+---
+layout: cover
 background: https://i.pinimg.com/564x/4a/48/ef/4a48ef17ad715db3bb50051a96d609ff.jpg
 ---
 
