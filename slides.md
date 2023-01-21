@@ -22,4 +22,45 @@ layout: cover
 
 # Objetivos
 
-Esta es una página con la plantillas  y una imagen de fondo.
+### Los objetivos de la comunicación estratégica van enfocados en fortalecer la organización apuntando a una mejora integral de la misma.
+<br><br><br>
+
+##### Por muy hermosa que sea la estrategia, de vez en cuando hay que mirar los resultados.
+###### Winston Churchill
+
+---
+layout: cover
+---
+
+# ¿Qué es la comunicación estratégica?
+
+### La comunicación estratégica es un proceso de planificación, desarrollo e implementación de la comunicación de una organización.
+
+---
+layout: cover
+---
+
+# ¿Por qué es importante la comunicación estratégica?
+
+### La comunicación estratégica es importante porque permite a las organizaciones comunicar sus objetivos y estrategias a sus públicos de interés.
+
+---
+layout: cover
+---
+
+# Ejemplos de comunicación estratégica
+
+### Campañas publicitarias
+##### Una empresa puede lanzar una campaña publicitaria para aumentar la conciencia sobre un nuevo producto o servicio, o para mejorar la reputación de la marca.
+<br>
+
+### Comunicaciones con los inversores
+##### Una empresa puede publicar informes financieros regulares para mantener a los inversores informados sobre el desempeño del negocio y las perspectivas de crecimiento.
+
+---
+layout: cover
+---
+
+# Conclusiones
+
+### Conclusión simple.
