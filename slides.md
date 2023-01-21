@@ -1,23 +1,26 @@
 ---
 layout: cover
-background: https://rabascallcomunicacion.com/rc/wp-content/uploads/2018/07/rabascall-titu-servicios-comunicacionEstategica-1.jpg
+background: https://i.pinimg.com/564x/99/7b/78/997b78fb322c39896f80af57e9645463.jpg
 title: Comunicación Estratégica
 download: true
 ---
 
 # Comunicación Estratégica
-#### Planificación, desarrollo e implementación.
+### Planificación, desarrollo e implementación.
 <br><br><br><br><br><br>
 <mdi-account-circle/>
-Jorge Gangale
-    <br>Cristian Shweidsfdsds
-    <br>Victor Guajardo
-    <br>Cristian Reyes
-    <br>Camilo González
+```text 
+    Jorge Gangale
+    Cristian Shweidsfdsds
+    Victor Guajardo
+    Cristian Reyes
+    Camilo González
+```    
 
 
 ---
 layout: cover
+background: https://i.pinimg.com/564x/4a/48/ef/4a48ef17ad715db3bb50051a96d609ff.jpg
 ---
 
 # Objetivos
@@ -30,6 +33,7 @@ layout: cover
 
 ---
 layout: cover
+background: https://i.pinimg.com/564x/5f/88/6f/5f886f42bc8ea49368dd506f3ef751ac.jpg
 ---
 
 # ¿Qué es la comunicación estratégica?
@@ -38,6 +42,7 @@ layout: cover
 
 ---
 layout: cover
+background: https://i.pinimg.com/564x/4d/1e/5d/4d1e5de13e5ebfad8231f6b1f21c96f1.jpg
 ---
 
 # ¿Por qué es importante la comunicación estratégica?
@@ -46,19 +51,27 @@ layout: cover
 
 ---
 layout: cover
+background: https://i.pinimg.com/564x/21/3e/b2/213eb218eb991551713228b9d0364fe9.jpg
 ---
 
 # Ejemplos de comunicación estratégica
 
 ### Campañas publicitarias
-##### Una empresa puede lanzar una campaña publicitaria para aumentar la conciencia sobre un nuevo producto o servicio, o para mejorar la reputación de la marca.
+```markdown
+Una empresa puede lanzar una campaña publicitaria para aumentar la conciencia sobre un nuevo producto o 
+servicio, o para mejorar la reputación de la marca.
+```
 <br>
 
 ### Comunicaciones con los inversores
-##### Una empresa puede publicar informes financieros regulares para mantener a los inversores informados sobre el desempeño del negocio y las perspectivas de crecimiento.
+```text 
+Una empresa puede publicar informes financieros regulares para mantener a los 
+inversores informados sobre el desempeño del negocio y las perspectivas de crecimiento.
+```
 
 ---
 layout: cover
+background: https://i.pinimg.com/564x/5f/88/6f/5f886f42bc8ea49368dd506f3ef751ac.jpg
 ---
 
 # Conclusiones
