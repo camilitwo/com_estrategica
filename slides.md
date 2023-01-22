@@ -25,13 +25,45 @@ align: right
 
 ---
 layout: cover
+
+---
+
+<body >
+<footer style="shadow: 10px 10px 30px #000; height: 400px; width: 600px">
+<img src="https://i.pinimg.com/564x/3c/91/91/3c91917ef03b487e19d3a31a1cf0bb61.jpg">
+<div style="margin-left: 70%; height: 70px;width: 400px">
+<img src="https://reefresilience.org/wp-content/uploads/Communication-Planning-Process.png">
+</div>
+<div style=" height: 30px;width: 400px">
+<img src="https://reefresilience.org/wp-content/uploads/Communication-Planning-Process-2.png">
+</div>
+
+<h1 style="font-size: 4em; color: #0a0a0a; text-shadow: 10px 10px 10px #525050; margin-left: 70%; margin-top: 55px">
+Introducción</h1>
+
+</footer>
+</body>
+
+---
+layout: cover
+background: https://www.wallpaperflare.com/static/594/953/235/motivational-nike-jumping-wallpaper.jpg
+
+---
+<body >
+<footer style="shadow: 10px 10px 30px #000; margin-top: 40%;margin-left: 60%; height: 30px; width: 100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_NIKE.png">
+</footer>
+</body>
+
+---
+layout: cover
 background: https://color-hex.org/colors/d8f8e1.png
 ---
 <h1 style="font-size: 6em; color: #fff; text-shadow: 10px 10px 10px #000;">Planner</h1>
 <br><br><br><br>
 <span style="font-size: 1.5em; color: #fff; text-shadow: 5px 5px 5px #000;">
-<mdi-numeric-1-box-multiple-outline/> Objetivos <mdi-numeric-2-box-multiple-outline/> Definición 
-<mdi-numeric-3-box-multiple-outline/> Importancia <mdi-numeric-4-box-multiple-outline/> Ejemplos 
+<mdi-numeric-1-box-multiple-outline/> Objetivos <mdi-numeric-2-box-multiple-outline/> Niveles de la comunicación 
+<mdi-numeric-3-box-multiple-outline/> Beneficios <br><mdi-numeric-4-box-multiple-outline/> Manejo de Crisis 
 <mdi-numeric-5-box-multiple-outline/> Conclusiones
 </span>
 
@@ -57,8 +89,12 @@ background: https://color-hex.org/colors/d8f8e1.png
 layout: cover
 background: https://cdn.crispedge.com/e5fdff.png
 ---
-<div align="center">
-    <img style="width: 600px; height: 500px;" src="https://docplayer.es/docs-images/102/155844766/images/52-0.jpg">
+
+<div align="center" v-click-hide style="position: fixed;margin-left: 30px">
+    <img style="width: 600px; height: 500px;" src="https://pbs.twimg.com/media/FmX5dFiWABsh0gh?format=jpg&name=4096x4096">
+</div>
+<div align="center" v-after>
+    <img style="width: 600px; height: 500px;" src="https://pbs.twimg.com/media/FmX5lGmWABAn5KG?format=jpg&name=4096x4096">
 </div>
 
 ---
@@ -85,8 +121,12 @@ background: https://color-hex.org/colors/d8f8e1.png
 
 
 <h1 style="font-size: 4em; color: #fff; text-shadow: 10px 10px 10px #000;">Manejo de Crisis</h1>
-<br><br><br>
- <img src="http://www.comunicacion-estrategica.com/site/wp-content/uploads/2020/08/Blog-CE-Comunicaci%C3%B3n-en-crisis.png">
+<br><br><br><br>
+<span style="font-size: 1.5em; color: #fff; text-shadow: 5px 5px 5px #000;">
+<mdi-numeric-1-box-multiple-outline/> Detección <mdi-numeric-2-box-multiple-outline/>  Prevención y/o Preparación 
+<mdi-numeric-3-box-multiple-outline/>  Contención <br><mdi-numeric-4-box-multiple-outline/>  Recuperación 
+<mdi-numeric-5-box-multiple-outline/>  Aprendizaje
+</span>
 
 ---
 layout: cover
